@@ -1,0 +1,56 @@
+.cep-form {
+    margin-bottom: 0 !important;
+    width: 47% !important;
+    display: inline-block;
+}
+
+.table-middle {
+    vertical-align: middle !important;
+}
+
+td, th
+{
+    text-align: center;
+}
+
+.btn
+{
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+
+.btn-deactivate
+{
+    margin-top: 20px;
+}
+
+a.logo
+{
+    margin:3px 0 20px 25px;
+    padding-left: 33px;
+}
+
+.top-nav .username
+{
+    padding-left: 12px;
+}
+
+.search
+{
+    margin: 0 auto;
+}
+
+.search:focus
+{
+    width:250px;
+}
+
+.adv-table .dataTables_length select
+{
+    width:81px;
+}
+
+.modal-dialog .modal-content .btn[type="submit"]
+{
+	margin-top: 15px;
+}
